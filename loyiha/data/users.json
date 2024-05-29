@@ -1,0 +1,54 @@
+{
+      "users": [
+            {
+                  "first_name": "test_user",
+                  "last_name": "test_user",
+                  "username": "test_username",
+                  "password": "test_password",
+                  "status": "user",
+                  "courses": [
+                        "c#"
+                  ],
+                  "create_date": "2024-04-07"
+            },
+            {
+                  "first_name": "Mustafo",
+                  "last_name": "Aliyev",
+                  "username": "mustafo1234",
+                  "password": "1234",
+                  "status": "admin",
+                  "courses": [],
+                  "create_date": "2024-04-07"
+            },
+            {
+                  "first_name": "jrojg",
+                  "last_name": "iijijg",
+                  "username": "enigj",
+                  "password": "123",
+                  "status": "user",
+                  "courses": [],
+                  "create_date": "2024-04-07 08:48:19.609136"
+            },
+            {
+                  "first_name": "ojogek",
+                  "last_name": "kjijg",
+                  "username": "bob123",
+                  "password": "1234",
+                  "status": "user",
+                  "courses": [],
+                  "create_date": "2024-04-07 09:30:37.251375"
+            },
+            {
+                  "first_name": "ojeojfdjg",
+                  "last_name": "Aliyev",
+                  "username": "john123",
+                  "password": "1234",
+                  "status": "user",
+                  "courses": [
+                        "python",
+                        "java"
+                  ],
+                  "create_date": "2024-04-07"
+            }
+      ]
+}
